@@ -39,7 +39,7 @@ as well as ad-hoc data file suffixes and prefixes.
 How DVC works
 =============
 
-We encourage you to read our `Get Started <https://dvc.org/doc/get-started>`_ guide to better understand what DVC
+We encourage  you to read our `Get Started <https://dvc.org/doc/get-started>`_ guide to better understand what DVC
 is and how it can fit your scenarios.
 
 The easiest (but not perfect!) *analogy* to describe it: DVC is Git (or Git-LFS to be precise) & Makefiles
